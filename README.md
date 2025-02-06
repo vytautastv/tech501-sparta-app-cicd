@@ -4,4 +4,4 @@
 - "app" folder stores Sparta app
 - uses Node JS v20
 - added for testing
-- new change for CI/CD pipeline
+- new change for cicd pipeline
