@@ -6,3 +6,4 @@
 - added for testing
 - new change for cicd pipeline
 - testing 12345
+- testing jenkins plugin
