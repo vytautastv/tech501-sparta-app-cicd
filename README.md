@@ -5,5 +5,4 @@
 - uses Node JS v20
 - added for testing
 - new change for cicd pipeline
-- testing 12345
-- testing jenkins plugin
+- deploy testing time: 11:01
