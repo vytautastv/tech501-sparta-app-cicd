@@ -5,4 +5,4 @@
 - uses Node JS v20
 - added for testing
 - new change for cicd pipeline
-- deploy testing time: 11:01
+- deploy testing time: 11:47
